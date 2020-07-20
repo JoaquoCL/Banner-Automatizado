@@ -26,3 +26,7 @@
 | TS3PHPFRAMEWORK | https://github.com/planetteamspeak/ts3phpframework
 
 - Debes instalar estos phps en una carpeta llamada "librerias"
+
+# Imagen
+
+![](https://github.com/JoaquoCL/Banner-Automatizado/blob/master/prueba.png)
