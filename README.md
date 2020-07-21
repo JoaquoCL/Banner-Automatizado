@@ -1,7 +1,7 @@
 # Banner Automatizado
 - Muestra la cantidad de usuarios conectados
 - Muestra el maximo de jugadores del servidor
-- Todo es modificable desde la liena 26 hasta la 33
+- Todo es modificable desde la línea 26 hasta la 33
 
 # Textos modificables
 - Hora:
